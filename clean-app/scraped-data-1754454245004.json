@@ -1,0 +1,95 @@
+{
+  "url": "https://google.com",
+  "timestamp": "2025-08-06T04:24:04.993Z",
+  "title": "Google",
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "paragraphs": [],
+  "links": [
+    {
+      "url": "https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header",
+      "text": "About"
+    },
+    {
+      "url": "https://store.google.com/IN?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-IN",
+      "text": "Store"
+    },
+    {
+      "url": "https://mail.google.com/mail/&ogbl",
+      "text": "Gmail"
+    },
+    {
+      "url": "https://www.google.com/imghp?hl=en&ogbl",
+      "text": "Images"
+    },
+    {
+      "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e",
+      "text": "Sign in"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBc",
+      "text": "हिन्दी"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBg",
+      "text": "বাংলা"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBk",
+      "text": "తెలుగు"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBo",
+      "text": "मराठी"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBs",
+      "text": "தமிழ்"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCBw",
+      "text": "ગુજરાતી"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCB0",
+      "text": "ಕನ್ನಡ"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCB4",
+      "text": "മലയാളം"
+    },
+    {
+      "url": "https://www.google.com/setprefs?sig=0_8F8JGr0pc3CYYn0p62fvLkwguYU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjqsIiwq_WOAxX6K7kGHaI6CHsQ2ZgBCB8",
+      "text": "ਪੰਜਾਬੀ"
+    },
+    {
+      "url": "https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+      "text": "Advertising"
+    },
+    {
+      "url": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+      "text": "Business"
+    },
+    {
+      "url": "https://google.com/search/howsearchworks/?fg=1",
+      "text": "How Search works"
+    },
+    {
+      "url": "https://policies.google.com/privacy?hl=en-IN&fg=1",
+      "text": "Privacy"
+    },
+    {
+      "url": "https://policies.google.com/terms?hl=en-IN&fg=1",
+      "text": "Terms"
+    }
+  ],
+  "images": [],
+  "meta": {
+    "description": "No description found",
+    "keywords": "No keywords found",
+    "author": "No author found"
+  }
+}

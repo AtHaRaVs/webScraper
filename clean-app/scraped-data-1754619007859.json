@@ -1,0 +1,27 @@
+{
+  "url": "https://amazon.com",
+  "timestamp": "2025-08-08T02:10:07.852Z",
+  "title": "Amazon.com",
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "paragraphs": [],
+  "links": [
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088",
+      "text": "Conditions of Use"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496",
+      "text": "Privacy Policy"
+    }
+  ],
+  "images": [],
+  "meta": {
+    "description": "No description found",
+    "keywords": "No keywords found",
+    "author": "No author found"
+  }
+}
